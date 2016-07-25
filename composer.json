@@ -1,5 +1,5 @@
 {
-    "name": "cnam/security-jwt-service-provider",
+    "name": "monteiro/security-jwt-service-provider",
     "description": "Service Provider for usage jwt token for auth",
     "minimum-stability": "stable",
     "authors": [
